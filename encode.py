@@ -11,7 +11,7 @@ def encode(input):
 			count = 1	
 		x+=1
 	if (len(input) > 0):
-		encoded += (input[x] + str(count))	
+		encoded += (input[x] + str(count))git 	
 	print(encoded)
 	print("HELLO") 
 	return(encoded)
